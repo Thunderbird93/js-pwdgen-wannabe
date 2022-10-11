@@ -3,7 +3,7 @@ const cognomeUtente = prompt ('inserire cognome')
 const coloreUtente = prompt ('Inserire il colore preferito')
 
 output = `
-<strong class="color-output">
+<strong>
 ${nomeUtente}${cognomeUtente}${coloreUtente}22
 </strong>
 `
